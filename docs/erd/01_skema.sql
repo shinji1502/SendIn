@@ -1,4 +1,4 @@
---Basis Ddata proyek sendin
+-- Basis Ddata proyek sendin
 CREATE DATABASE IF NOT EXISTS sendin_db;
 USE sendin_db;
 
